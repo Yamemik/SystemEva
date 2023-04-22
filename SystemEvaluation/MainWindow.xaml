@@ -1,0 +1,57 @@
+﻿<Window x:Class="SystemEvaluation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SystemEvaluation"
+        mc:Ignorable="d"
+        Title="Аптека" WindowState="Normal">
+    <Window.Background>
+        <SolidColorBrush Color="DarkSeaGreen"/>
+    </Window.Background>
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="ForestGreen"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="FontSize" Value="26"/>
+            <Setter Property="FontFamily" Value="Pescadero"/>
+            <Setter Property="FontStyle" Value="Italic"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="26"/>
+            <Setter Property="FontFamily" Value="Pescadero"/>
+            <Setter Property="FontStyle" Value="Italic"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Foreground" Value="DimGray"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="1" VerticalAlignment="Center">
+            <TextBlock Text="Заказы"/>
+            <Button Click="btmRate_Click">Продажи</Button>
+            <Button Click="btnStudent_Click">Лекарства</Button>
+            <Button Click="btnOrg_Click">Отчеты</Button>
+            <TextBlock Text="Склад"/>
+            <Button Click="btnTxt_Click">Учет товаров</Button>
+            <Button Click="btnTxt_Click">Заказы</Button>
+        </StackPanel>
+
+        <StackPanel Grid.Column="2" VerticalAlignment="Bottom">
+            <Button Click="btnExit_Click" Background="DarkKhaki">Настройки</Button>
+            <Button Click="btnExit_Click" Background="DarkKhaki">Выход</Button>
+        </StackPanel>
+
+        <StackPanel>
+            <Button Click="btnAbout_Click" Background="CadetBlue">О программе</Button>
+            <Button Click="btnAuto_Click" Background="CadetBlue">Авторизация</Button>
+        </StackPanel>
+    </Grid>
+</Window>

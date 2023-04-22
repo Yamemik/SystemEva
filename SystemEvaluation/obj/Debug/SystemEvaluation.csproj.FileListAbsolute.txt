@@ -1,0 +1,106 @@
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\bin\Debug\SystemEvaluation.exe.config
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\bin\Debug\SystemEvaluation.exe
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\bin\Debug\SystemEvaluation.pdb
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.csprojAssemblyReference.cache
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\MainWindow.g.cs
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\StudentWindow.g.cs
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\App.g.cs
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation_MarkupCompile.cache
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation_MarkupCompile.lref
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\MainWindow.baml
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\StudentWindow.baml
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.g.resources
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.Properties.Resources.resources
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.csproj.GenerateResource.cache
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.csproj.CoreCompileInputs.cache
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.exe
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.pdb
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\AddStudentWindow.g.cs
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\AddStudentWindow.baml
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\RatingWindow.g.cs
+D:\!Visual Studio Source\SystemEvaluation\SystemEvaluation\obj\Debug\RatingWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\bin\Debug\SystemEvaluation.exe.config
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\bin\Debug\SystemEvaluation.exe
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\bin\Debug\SystemEvaluation.pdb
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.csprojAssemblyReference.cache
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\AddStudentWindow.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\MainWindow.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\RatingWindow.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\StudentWindow.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\App.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation_MarkupCompile.cache
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation_MarkupCompile.lref
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\AddStudentWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\MainWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\RatingWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\StudentWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.g.resources
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.Properties.Resources.resources
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.csproj.GenerateResource.cache
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.csproj.CoreCompileInputs.cache
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.exe
+C:\Users\kuanc\YandexDisk\C#.NET\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.pdb
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\bin\Debug\SystemEvaluation.exe.config
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\bin\Debug\SystemEvaluation.exe
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\bin\Debug\SystemEvaluation.pdb
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.csprojAssemblyReference.cache
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\AddStudentWindow.g.cs
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\MainWindow.g.cs
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\RatingWindow.g.cs
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\StudentWindow.g.cs
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\App.g.cs
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation_MarkupCompile.cache
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation_MarkupCompile.lref
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\AddStudentWindow.baml
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\MainWindow.baml
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\RatingWindow.baml
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\StudentWindow.baml
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.g.resources
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.Properties.Resources.resources
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.csproj.GenerateResource.cache
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.csproj.CoreCompileInputs.cache
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.exe
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.pdb
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\bin\Debug\ExcelDataReader.dll
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\bin\Debug\ExcelDataReader.pdb
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\bin\Debug\ExcelDataReader.xml
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\SystemEvaluation.csproj.CopyComplete
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\OrgWindow.g.cs
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\OrgWindow.baml
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\DataUseWindow.g.cs
+C:\Users\kuanc\Desktop\SystemEvaluation\SystemEvaluation\obj\Debug\DataUseWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\SystemEvaluation.csproj.AssemblyReference.cache
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\AddStudentWindow.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\DataUseWindow.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\MainWindow.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\OrgWindow.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\RatingWindow.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\StudentWindow.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\App.g.cs
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\SystemEvaluation_MarkupCompile.cache
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\SystemEvaluation_MarkupCompile.lref
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\SystemEvaluation.exe
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\SystemEvaluation.pdb
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\bin\Debug\SystemEvaluation.exe.config
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\bin\Debug\SystemEvaluation.exe
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\bin\Debug\SystemEvaluation.pdb
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\bin\Debug\ExcelDataReader.dll
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\bin\Debug\ExcelDataReader.pdb
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\bin\Debug\ExcelDataReader.xml
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\AddStudentWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\DataUseWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\MainWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\OrgWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\RatingWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\StudentWindow.baml
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\SystemEvaluation.g.resources
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\SystemEvaluation.Properties.Resources.resources
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\SystemEvaluation.csproj.GenerateResource.cache
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\SystemEvaluation.csproj.CoreCompileInputs.cache
+C:\Users\kuanc\YandexDisk\C#.NET\вкр_подкорытова\SystemEvaluation\obj\Debug\SystemEvaluation.csproj.CopyComplete

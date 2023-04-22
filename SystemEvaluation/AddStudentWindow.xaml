@@ -1,0 +1,78 @@
+﻿<Window x:Class="SystemEvaluation.AddStudentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SystemEvaluation"
+        mc:Ignorable="d"
+        Title="Редактирование" Height="450" Width="800" Background="DimGray">
+
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="NavajoWhite"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="FontSize" Value="26"/>
+            <Setter Property="FontFamily" Value="Pescadero"/>
+            <Setter Property="FontStyle" Value="Italic"/>
+            <Setter Property="Margin" Value="10"/>
+        </Style>
+        
+        <Style TargetType="TextBlock">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="Pescadero"/>
+            <Setter Property="FontStyle" Value="Italic"/>
+            <Setter Property="Background" Value="AliceBlue"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+            <Button Click="btnSave_Click">Сохранить</Button>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <Button Click="btnCancel_Click">Отменить</Button>
+        </StackPanel>
+
+        <StackPanel>
+            <TextBlock>Код</TextBlock>
+            <TextBlock>Инв/№ </TextBlock>
+            <TextBlock>Название</TextBlock>
+            <TextBlock>Количество</TextBlock>
+            <TextBlock>Цена</TextBlock>
+            <TextBlock>Вид</TextBlock>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1">
+            <TextBox x:Name="id"></TextBox>
+            <TextBox x:Name="number"></TextBox>
+            <TextBox x:Name="family"></TextBox>
+            <TextBox x:Name="name"></TextBox>
+            <TextBox x:Name="putr"></TextBox>
+            <ComboBox x:Name="cbGroup" SelectedItem="{Binding КодГруппы}" DisplayMemberPath="КодГруппы" 
+                      Height="40" Margin="5" Background="Bisque" FontSize="20"></ComboBox>
+        </StackPanel>        
+    </Grid>
+</Window>
